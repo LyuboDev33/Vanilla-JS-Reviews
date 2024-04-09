@@ -1,4 +1,4 @@
-This is a basic reviews switche creater with HTML, CSS and Vanilla JavaScript.
+This is a basic reviews switcher creater with HTML, CSS and Vanilla JavaScript.
 
 How it works:
 
